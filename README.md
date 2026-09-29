@@ -14,6 +14,14 @@ Each remediation script includes the STIG ID, remediation code, testing informat
 
 ---
 
+## 📚 Project Documentation
+
+🛠️ [View Manual STIG Remediation & Verification Methods](docs/manual-remediation.md)
+
+💻 PowerShell remediation scripts are linked individually under each STIG below.
+
+---
+
 # STIG Remediations
 
 ## 1. WN11-AU-000500 — Application Event Log Size
